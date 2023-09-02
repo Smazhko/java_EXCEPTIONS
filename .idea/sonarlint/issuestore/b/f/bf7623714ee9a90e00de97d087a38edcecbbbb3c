@@ -1,0 +1,11 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬÷¤şşÿÿÿÿ8®¤û¥1
+]	java:S125"<This block of commented-out lines of code should be removed.(ÆÜØ¾ûÿÿÿÿ8´¤û¥1
+]	java:S125"<This block of commented-out lines of code should be removed.(¢ùßöşÿÿÿÿ8´¤û¥1
+]	java:S125+"<This block of commented-out lines of code should be removed.(Õûİøşÿÿÿÿ8®ºû¥1
+F
+java:S1128")Remove this unused import 'java.io.File'.(†Ğ¥Å8®ºû¥1
+\
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8¸¤û¥1
+Q
+java:S1128"/Remove this unused import 'java.io.FileReader'.(Â¡¢äşÿÿÿÿ8¸¤û¥1

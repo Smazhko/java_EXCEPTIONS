@@ -1,0 +1,20 @@
+
+g	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(œÀ‘ııÿÿÿÿ8•ŞÓ˜£1
+v	java:S120@"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÈÈûÙ8É·Ê²£1
+o
+java:S2095l"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(÷äÊåÿÿÿÿÿ8¡ŞÓ˜£1
+;
+java:S1659W"Declare "b" on a separate line.(İ­T8¥ŞÓ˜£1
+Z	java:S106Z"9Replace this use of System.out or System.err by a logger.(¦îİüÿÿÿÿ8©ŞÓ˜£1
+T
+java:S1172`"7Remove this unused method parameter "stringArraysList".(ª×Ÿ‹8£ÊÙ˜£1
+X	java:S125b"<This block of commented-out lines of code should be removed.(ÊË«”8¤ÊÙ˜£1
+g
+java:S1764f"JCorrect one of the identical sub-expressions on both sides of operator "-"(ÃÑ¦Ñ8«ŞÓ˜£1
+Y
+java:S1854p"7Remove this useless assignment to local variable "num".(¿àŸšúÿÿÿÿ8¬ŞÓ˜£1
+J
+java:S1481p"(Remove this unused "num" local variable.(¿àŸšúÿÿÿÿ8¯ŞÓ˜£1
+K
+java:S1172‚"(Remove this unused method parameter "s".(‡’ûıùÿÿÿÿ8²ŞÓ˜£1
+[	java:S106ƒ"9Replace this use of System.out or System.err by a logger.(î“úÿÿÿÿ8³ŞÓ˜£1

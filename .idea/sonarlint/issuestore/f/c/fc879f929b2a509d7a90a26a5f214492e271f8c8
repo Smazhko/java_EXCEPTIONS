@@ -1,0 +1,8 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬÷¤şşÿÿÿÿ8§®–¥1
+a
+java:S2147"DCombine this catch with the one at line 20, which has the same body.(”ı¾8µ®–¥1
+„
+java:S4087"bRemove this "close" call; closing the resource is handled automatically by the try-with-resources.(æÅîäşÿÿÿÿ8¶®–¥1
+I
+java:S1068"'Remove this unused "num" private field.(â¸»‹ùÿÿÿÿ8»®–¥1
